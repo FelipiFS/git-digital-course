@@ -10,3 +10,4 @@ teste2
 ## Gravando Mudanças no Repositório
 # Git diff (linhas modificadas)
 mudança1
+mudança2

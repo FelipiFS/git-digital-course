@@ -11,5 +11,5 @@ teste2
 # Git diff (linhas modificadas)
 mudança1
 mudança2
-* COMANDO GIT PUSH
+COMANDO GIT PUSH
 mudança git pull

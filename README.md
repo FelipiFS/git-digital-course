@@ -15,3 +15,4 @@ COMANDO GIT PUSH
 mudança git pull
 test
 test2
+git fecth

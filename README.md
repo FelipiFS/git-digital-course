@@ -12,3 +12,6 @@ teste2
 mudança1
 mudança2
 * COMANDO GIT PUSH
+mudança git pull
+mudança git pull 2
+
